@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LandLMM\.android\build-cache\2913aa45ec229cfb5884068fd95130264858cc6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3161f0a4cdb208b50bd204d384dd846ffcb1dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e5c8d30b6e5818e256691555259bd66607cac223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LandLMM\.android\build-cache\3a2f81240c63786695aee96a028a55cc9113f01e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3db5a067e91902a928857b99366f9f4a7521e07f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LandLMM\.android\build-cache\bd510bc743419a5b3cda39c995ef2ddc498ef5d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0dd7988b2ee46a8cd860877d656885b4fbdaf699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ff653003c2cf9c831604c31e4c973d6fa9478e9">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_972a9ae747e31c79811b1f8c9d207cbb74567fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LandLMM\.android\build-cache\a7a1e9b1550be2b58f44d67b585ab3d205d16989\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_719ecd3cf23edb190e77d4df8b77ec0c8723e72b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LandLMM\.android\build-cache\9d3354989b82abd96564aebc7e736a29443c523c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24f7935ad4720d51c041f304e03dba989f49e4a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LandLMM\.android\build-cache\c29c1f6b02c80875d594719ce2cead9fa1b41537\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25c43ee8df8c587b1a0f2ce7422ff41d6d085fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LandLMM\.android\build-cache\5d3379b8e35f04972f5cc27400072e848b229ca8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d0d65939d9b561a4927e9dfac4e63a3840374a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LandLMM\.android\build-cache\435cb3b34d795ee1f80b2b0cb086412d904eda47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1b109af06f61076c4628b9f81794efc66c13b63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LandLMM\.android\build-cache\04d97dc0b9e5f4e5808ac2adbe2195df109ce547\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\LandMStorage\AndroidStudio\AndroidStudioProjects\AsgardiaGreetings\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_987a428feaf4c8fd7714346a5348b4680f1ac22e\classes.dex" />
+    </item>
+
+</items>
